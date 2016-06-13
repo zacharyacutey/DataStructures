@@ -20,6 +20,6 @@ class Stack(T)
   }
   public void push(T val)
   {
-    this.value!=val;
+    this.value~=val;
   }
 }
